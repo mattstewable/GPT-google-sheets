@@ -37,8 +37,6 @@ Note that you need to add your own OpenAI API key to a sheet called 'API-key' in
 
 More detailed explanations for how to use the functions is provided in the 'examples' sheet. 
 
-This repository was created by Moritz Laurer. If it is useful for you, give it a 🌟. If you have questions, reach out on [LinkedIn](https://www.linkedin.com/in/moritz-laurer/) or [Twitter](https://twitter.com/MoritzLaurer).
-
 
 ## License
 The script is licensed under the permissive [Responsible AI End-User License v0.1 (RAIL)](https://www.licenses.ai/ai-licenses). You are free to use it for pretty much any non-commercial or commercial purpose, but it cannot be used for criminal or similar activities. Note that I have added a call to the OpenAI moderation API to prevent misuse of the model. 
